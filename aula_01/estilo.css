@@ -1,0 +1,29 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+body{
+    background-image: url("image.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#dataNascimento{
+    width: 100%;
+}
+.minhaClasse{
+    width: 100%;
+}
+.caixa-branca{
+    background-color: white;
+    padding: 10px;
+    width: 400px;
+    height: 700px;
+}
+#botao{
+    background: blue;
+    color: white;
+
+}
